@@ -1,0 +1,21 @@
+<resources>
+
+  <string name="action_settings">إعدادات</string>
+  <string name="input_hint" translatable="false">FB</string>
+  <string name="input_prefill"></string>
+  <string name="app_name">الأسهم هوك</string>
+  <string name="action_example">العمل سبيل المثال</string>
+  <string name="action_change_units">وحدات التغيير</string>
+  <string name="content_test">بحث عن الأوراق المالية رمز</string>
+  <string name="network_toast">اه أوه ! هذا التطبيق يتطلب اتصال بالإنترنت</string>
+  <string name="symbol_search">رمز البحث</string>
+  <string name="stock_info">معلومات الأسهم</string>
+  <string name="units">وحدات التغيير</string>
+  <string name="saved_stock">يتم حفظ هذه الأسهم بالفعل!</string>
+  <string name="valid_stock">الرجاء إدخال رمز أسهم صحيح</string>
+  <string name="connection_status">يرجى التحقق من الاتصالبالإنترنت
+    يس لديك أي بيانات المخزون</string>
+  <string name="connection_status2">يرجى التحقق من الاتصال بالإنترنت
+  الأسهم الخاصة بك قديما</string>
+  <string name="connection_status3"> الأسهم لديك ما يصل من تاريخ</string>
+</resources>
